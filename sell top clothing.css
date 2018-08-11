@@ -1,0 +1,42 @@
+.main{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding: 30px;
+    padding-right: 330px;
+}
+
+.Худи{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+
+.Свитшоты{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.Футболки{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+
+.Рубашки{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.Другое{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.block{
+    display: inline-block;
+}

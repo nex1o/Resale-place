@@ -1,0 +1,52 @@
+.main{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding: 30px;
+    padding-right: 330px;
+}
+
+.Низкие кроссовки a{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-decoration: none;
+    Color: black ;
+}
+
+.Высокие кроссовки{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-decoration: none;
+    Color: black ;
+}
+
+
+.Ботинки{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-decoration: none;
+    Color: black ;
+}
+
+.Сандали{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-decoration: none;
+    Color: black ;
+}
+
+
+.Сланцы{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-decoration: none;
+    Color: black ;
+}
+
+.block{
+    display: inline-block;
+}

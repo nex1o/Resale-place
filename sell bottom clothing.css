@@ -1,0 +1,42 @@
+.main{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding: 30px;
+    padding-right: 330px;
+}
+
+.Джоггеры{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+
+.Брюки{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.Джинсы{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+
+.Шорты{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.Другое{
+    padding: 0 auto;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.block{
+    display: inline-block;
+}
